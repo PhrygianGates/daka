@@ -23,3 +23,6 @@ Tips:
 
 ## 游凯超
 2021-1-6 学习markdown、git和python
+
+## 熊志成
+- 2021-1-15 学习使用GitHub
